@@ -6,6 +6,9 @@
 - Pedro Bastos Windmoller
 - Luciano Henrique Mousinho Moreira
 
+## Linha do tempo:
+https://www.mymap.ai/playground?mid=vBZLJ31M3kw9p
+
 ## O Nascimento da Linguagem (1991):
 
 O berço do Java foi o projeto **Green Project**, uma linguagem de programação orientada a objetos. Os mentores do projeto eram **Patrick Naughton**, **Mike Sheridan**, e **James Gosling**. Eles acreditavam que, eventualmente, haveria uma convergência dos computadores com os equipamentos e eletrodomésticos frequentemente usados pelas pessoas no seu dia-a-dia.
