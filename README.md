@@ -7,7 +7,7 @@
 - Luciano Henrique Mousinho Moreira
 
 ## Linha do tempo:
-https://www.mymap.ai/playground?mid=vBZLJ31M3kw9p
+https://gamma.app/docs/Historia-do-JAVA-xqo5q3rikqnpvkc?mode=doc
 
 ## O Nascimento da Linguagem (1991):
 
