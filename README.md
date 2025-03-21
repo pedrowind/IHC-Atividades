@@ -4,6 +4,7 @@
 - Gabriel Madureira de Jesus Silva
 - Davi Araujo Vaz
 - Pedro Bastos Windmoller
+- Luciano Henrique Mousinho Moreira
 
 ## O Nascimento da Linguagem (1991):
 
