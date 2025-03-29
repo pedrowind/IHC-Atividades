@@ -6,6 +6,9 @@
 - Pedro Bastos Windmoller
 - Luciano Henrique Mousinho Moreira
 
+## Documento de Pesquisa:
+https://docs.google.com/document/d/1ssXaGpXEueO8QJmAEse8xAPqm2J3fcVDlGHxvcQ0Uno/edit?tab=t.0
+
 ## Linha do tempo:
 https://gamma.app/docs/Historia-do-JAVA-xqo5q3rikqnpvkc?mode=doc
 
